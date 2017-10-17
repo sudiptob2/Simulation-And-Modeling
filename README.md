@@ -1,1 +1,2 @@
-# Simulation-And-Modeling
+# Simulation-And-Modeling LAB
+#PATUAKHALI SCIENCE AND TECHNOLOGY UNIVERSITY
